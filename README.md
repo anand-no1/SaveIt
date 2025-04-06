@@ -1,18 +1,6 @@
 # SaveIt
 
 All in One Social Media (Facebook, WhatsApp, Instagram, YouTube, Tiktok ) downloader. It allows WhatsApp Status Download, Facebook Video Download, Instagram Story Download, Instagram IGTV Download, Instagram Reels Download, Instagram Story Download, Youtube Video Download, Youtube Video Audio Download, Tiktok Video Download.
-
-### Show some :heart: and star the repo to support the project
-[![GitHub stars](https://img.shields.io/github/stars/katariyanikhil/SaveIt.svg?style=social&label=Star)](https://github.com/katariyanikhil/SaveIt) [![GitHub watchers](https://img.shields.io/github/watchers/katariyanikhil/SaveIt.svg?style=social&label=Watch)](https://github.com/katariyanikhil/SaveIt) [![GitHub followers](https://img.shields.io/github/followers/katariyanikhil.svg?style=social&label=Follow)](https://github.com/katariyanikhil/SaveIt)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/katariyanikhil_.svg?style=social)](https://twitter.com/katariyanikhil_)
-
-### Support Me
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](https://paypal.me/katariyanikhil/)
-> * [Buy Me a Coffee](https://www.buymeacoffee.com/katariyanikhil)
-
-
 ### Screenshots
 
 # License
